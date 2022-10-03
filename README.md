@@ -4,6 +4,12 @@ Activity log of mentoring or study life
 
 ## Mentoring
 
+### hongsam14/AR_Docent
+
+홍성현님 개인 멘토링 - 도자기 전시 작품 AR Docent
+
+- [Meeting 26, 2022-09-30](https://github.com/hongsam14/AR_Docent/issues/17)
+
 ### wisdom08/dev-community
 
 변지혜님 개인 멘토링 - 주니어 개발자 커뮤니티

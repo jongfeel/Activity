@@ -25,9 +25,17 @@ Activity log of mentoring or study life
 
 - [3차 멘토 정례 모임, 2022-09-22 zoom 온라인 진행](https://github.com/jongfeel/Activity/issues/12)
 
-## 꿈찾기 운동본부, 전문 직업인 특강
+### 꿈찾기 운동본부, 전문 직업인 특강
 
 인천 지역 고등학교 1,2학년 학생 대상 직업인 특강
 
 - [인천세원고, 2022-09-23](https://github.com/jongfeel/Activity/issues/4)
 - [인천부평고, 2022-09-28](https://github.com/jongfeel/Activity/issues/20)
+
+### 온라인 모각코
+
+매주 토요일 오전 10시 30분 ~ 오후 12시 30분
+google meet에서 진행
+https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup
+
+- [97th online meetup](https://github.com/jongfeel/Activity/issues/10)

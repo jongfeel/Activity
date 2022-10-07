@@ -4,6 +4,12 @@ Activity log of mentoring or study life
 
 ## Mentoring
 
+### fkdl0048/Mentoring-Project
+
+이정안님 개인 멘토링 - 게임 개발 프로젝트 관련, C# 관련 질문/답변 멘토링
+
+- [Meeting 1, 2022-10-03](https://github.com/fkdl0048/Mentoring-Project/discussions/7)
+
 ### hongsam14/AR_Docent
 
 홍성현님 개인 멘토링 - 도자기 전시 작품 AR Docent

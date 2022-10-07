@@ -14,8 +14,9 @@ Activity log of mentoring or study life
 
 변지혜님 개인 멘토링 - 주니어 개발자 커뮤니티
 
-- [Meeting 1, 2022-09-06](https://github.com/wisdom08/dev-community/discussions/14)
+- [Meeting 3, 2022-10-04](https://github.com/wisdom08/dev-community/discussions/29)
 - [Meeting 2, 2022-09-20](https://github.com/wisdom08/dev-community/discussions/18)
+- [Meeting 1, 2022-09-06](https://github.com/wisdom08/dev-community/discussions/14)
 
 ### 42StudyGame/RandomDiceDefense42-Client
 

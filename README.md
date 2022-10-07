@@ -4,6 +4,12 @@ Activity log of mentoring or study life
 
 ## Mentoring
 
+### jiychoi
+
+최지윤님 42Seoul 멘토링
+
+- [2022-10-01](https://github.com/jongfeel/Activity/issues/37)
+
 ### fkdl0048/Mentoring-Project
 
 이정안님 개인 멘토링 - 게임 개발 프로젝트 관련, C# 관련 질문/답변 멘토링

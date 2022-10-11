@@ -61,3 +61,9 @@ https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup
 
 - [98th online meetup, 2022-10-01](https://github.com/jongfeel/Activity/issues/23)
 - [97th online meetup, 2022-09-24](https://github.com/jongfeel/Activity/issues/10)
+
+### 학생 성장을 돕는 1000명의 진로직업 멘토단
+
+인천시에서 추진하는 온리안 멘토링 시스템
+
+- [멘토단 위촉식, 2022-10-12](https://github.com/jongfeel/Activity/issues/39)

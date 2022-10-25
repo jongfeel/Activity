@@ -4,6 +4,12 @@ Activity log of mentoring or study life
 
 ## Mentoring
 
+### yeslee
+
+이예신님 42Seoul 멘토링
+
+- [2022-10-23](https://github.com/jongfeel/Activity/issues/57)
+
 ### jiychoi
 
 최지윤님 42Seoul 멘토링

@@ -67,6 +67,12 @@ Activity log of mentoring or study life
 
 - [3차 멘토 정례 모임, 2022-09-22 zoom 온라인 진행](https://github.com/jongfeel/Activity/issues/12)
 
+### 42Seoul mentors
+
+재단내 교육생 관련 위원으로 참석
+
+- [교육생 선발위원회](https://github.com/jongfeel/Activity/issues/64)
+
 ### 꿈찾기 운동본부, 전문 직업인 특강
 
 인천 지역 고등학교 1,2학년 학생 대상 직업인 특강

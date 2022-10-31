@@ -52,6 +52,15 @@ Activity log of mentoring or study life
 
 ## Meetup
 
+### Virnect book club
+
+사내 책읽기 모임
+
+#### 함께 자라기
+
+- [2 함께](https://github.com/virnect-corp/BookClub/pull/100)
+- [1 자라기](https://github.com/virnect-corp/BookClub/pull/98)
+
 ### Hanium mentors
 
 한이음 멘토 커뮤니티 모임, 공지사항, 우수 멘토 사례 발표 등

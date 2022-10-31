@@ -28,6 +28,7 @@ Activity log of mentoring or study life
 
 홍성현님 개인 멘토링 - 도자기 전시 작품 AR Docent
 
+- [Meeting 27, 2022-10-27](https://github.com/hongsam14/AR_Docent/issues/19)
 - [Meeting 26, 2022-09-30](https://github.com/hongsam14/AR_Docent/issues/17)
 
 ### wisdom08/dev-community

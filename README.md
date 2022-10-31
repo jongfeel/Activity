@@ -92,3 +92,7 @@ https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup
 인천시에서 추진하는 온리안 멘토링 시스템
 
 - [멘토단 위촉식, 2022-10-12](https://github.com/jongfeel/Activity/issues/39)
+
+### 기타 개인적인 티타임 만남
+
+- [정세영님 이채민님, 2022-10-27](https://github.com/jongfeel/Activity/issues/54)

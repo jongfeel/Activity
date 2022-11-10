@@ -35,6 +35,7 @@ Activity log of mentoring or study life
 
 변지혜님 개인 멘토링 - 주니어 개발자 커뮤니티
 
+- [Meeting 5, 2022-11-01](https://github.com/wisdom08/dev-community/discussions/35)
 - [Meeting 4, 2022-10-18](https://github.com/wisdom08/dev-community/discussions/33)
 - [Meeting 3, 2022-10-04](https://github.com/wisdom08/dev-community/discussions/29)
 - [Meeting 2, 2022-09-20](https://github.com/wisdom08/dev-community/discussions/18)

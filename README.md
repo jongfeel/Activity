@@ -79,8 +79,9 @@ Activity log of mentoring or study life
 
 인천 지역 고등학교 1,2학년 학생 대상 직업인 특강
 
-- [인천세원고, 2022-09-23](https://github.com/jongfeel/Activity/issues/4)
+- [인천송도고, 2022-11-02](https://github.com/jongfeel/Activity/issues/25)
 - [인천부평고, 2022-09-28](https://github.com/jongfeel/Activity/issues/20)
+- [인천세원고, 2022-09-23](https://github.com/jongfeel/Activity/issues/4)
 
 ### 온라인 모각코
 

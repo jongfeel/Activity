@@ -90,6 +90,7 @@ Activity log of mentoring or study life
 google meet에서 진행
 https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup
 
+- [104th online meetup, 2022-11-12](https://github.com/jongfeel/Activity/issues/81)
 - [103th online meetup, 2022-11-05](https://github.com/jongfeel/Activity/issues/72)
 - [102th online meetup, 2022-10-29](https://github.com/jongfeel/Activity/issues/70)
 - [101th online meetup, 2022-10-22](https://github.com/jongfeel/Activity/issues/58)

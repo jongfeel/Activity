@@ -62,6 +62,7 @@ Activity log of mentoring or study life
 
 #### 함께 자라기
 
+- [3 애자일](https://github.com/virnect-corp/BookClub/pull/104)
 - [2 함께](https://github.com/virnect-corp/BookClub/pull/100)
 - [1 자라기](https://github.com/virnect-corp/BookClub/pull/98)
 

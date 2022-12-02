@@ -37,6 +37,7 @@ Activity log of mentoring or study life
 
 변지혜님 개인 멘토링 - 주니어 개발자 커뮤니티
 
+- [Meeting 6, 2022-11-15](https://github.com/wisdom08/dev-community/discussions/41)
 - [Meeting 5, 2022-11-01](https://github.com/wisdom08/dev-community/discussions/35)
 - [Meeting 4, 2022-10-18](https://github.com/wisdom08/dev-community/discussions/33)
 - [Meeting 3, 2022-10-04](https://github.com/wisdom08/dev-community/discussions/29)
@@ -90,14 +91,14 @@ Activity log of mentoring or study life
 google meet에서 진행
 https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup
 
-- [104th online meetup, 2022-11-12](https://github.com/jongfeel/Activity/issues/81)
-- [103th online meetup, 2022-11-05](https://github.com/jongfeel/Activity/issues/72)
-- [102th online meetup, 2022-10-29](https://github.com/jongfeel/Activity/issues/70)
-- [101th online meetup, 2022-10-22](https://github.com/jongfeel/Activity/issues/58)
-- [100th online meetup, 2022-10-15](https://github.com/jongfeel/Activity/issues/52)
-- [99th online meetup, 2022-10-08](https://github.com/jongfeel/Activity/issues/30)
-- [98th online meetup, 2022-10-01](https://github.com/jongfeel/Activity/issues/23)
-- [97th online meetup, 2022-09-24](https://github.com/jongfeel/Activity/issues/10)
+- [104th online meetup, 2022-11-12](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/179)
+- [103th online meetup, 2022-11-05](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/177)
+- [102th online meetup, 2022-10-29](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/171)
+- [101th online meetup, 2022-10-22](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/170)
+- [100th online meetup, 2022-10-15](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/169)
+- [99th online meetup, 2022-10-08](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/167)
+- [98th online meetup, 2022-10-01](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/166)
+- [97th online meetup, 2022-09-24](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/161)
 
 ### 학생 성장을 돕는 1000명의 진로직업 멘토단
 

@@ -56,31 +56,29 @@ Activity log of mentoring or study life
 
 ## Meetup
 
-### Virnect book club
+### Virnect book club - 사내 책읽기 모임
 
-사내 책읽기 모임
+#### 함께 자라기, 세 번째 책
 
-#### 함께 자라기
+- [3 애자일, 2022-11-04](https://github.com/virnect-corp/BookClub/pull/104)
+- [2 함께, 2022-10-28](https://github.com/virnect-corp/BookClub/pull/100)
+- [1 자라기, 2022-10-07](https://github.com/virnect-corp/BookClub/pull/98)
 
-- [3 애자일](https://github.com/virnect-corp/BookClub/pull/104)
-- [2 함께](https://github.com/virnect-corp/BookClub/pull/100)
-- [1 자라기](https://github.com/virnect-corp/BookClub/pull/98)
-
-### Hanium mentors
-
-한이음 멘토 커뮤니티 모임, 공지사항, 우수 멘토 사례 발표 등
+### Hanium mentors - 한이음 멘토 커뮤니티 모임, 공지사항, 우수 멘토 사례 발표 등
 
 - [3차 멘토 정례 모임, 2022-09-22 zoom 온라인 진행](https://github.com/jongfeel/Activity/issues/12)
 
-### 42Seoul mentors
+### Hanium project 2022
 
-재단내 교육생 관련 위원으로 참석
+#### AR카메라를 활용한 3D 인테리어 App, 22_HF061
+
+- [오프라인 최종 미팅 5, 저녁 식사](https://github.com/jongfeel/Activity/issues/79)
+
+### 42Seoul mentors - 재단내 교육생 관련 위원으로 참석
 
 - [교육생 선발위원회](https://github.com/jongfeel/Activity/issues/64)
 
-### 꿈찾기 운동본부, 전문 직업인 특강
-
-인천 지역 고등학교 1,2학년 학생 대상 직업인 특강
+### 꿈찾기 운동본부, 전문 직업인 특강 - 인천 지역 고등학교 1,2학년 학생 대상 직업인 특강
 
 - [인천송도고, 2022-11-02](https://github.com/jongfeel/Activity/issues/25)
 - [인천부평고, 2022-09-28](https://github.com/jongfeel/Activity/issues/20)
@@ -101,8 +99,6 @@ https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup
 - [97th online meetup, 2022-09-24](https://github.com/jongfeel/Activity/issues/10)
 
 ### 학생 성장을 돕는 1000명의 진로직업 멘토단
-
-인천시에서 추진하는 온리안 멘토링 시스템
 
 - [멘토단 위촉식, 2022-10-12](https://github.com/jongfeel/Activity/issues/39)
 

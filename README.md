@@ -48,6 +48,7 @@ Activity log of mentoring or study life
 
 42Seoul 팀 멘토링 - 랜덤 다이스 디펜스 게임 개발
 
+- [Meeting 7, 2022-11-23](https://github.com/42StudyGame/RandomDiceDefense42-Docs/discussions/10)
 - [Meeting 6, 2022-11-09](https://github.com/42StudyGame/RandomDiceDefense42-Docs/discussions/8)
 - [Meeting 5, 2022-10-26](https://github.com/42StudyGame/RandomDiceDefense42-Docs/discussions/7)
 - [Meeting 4, 2022-10-12](https://github.com/42StudyGame/RandomDiceDefense42-Docs/discussions/5)

@@ -84,6 +84,7 @@ Activity log of mentoring or study life
 
 ### 42Seoul mentors - 재단내 교육생 관련 위원으로 참석
 
+- [목요특강, ARCore, ARFoundation을 통한 증강현실 개발 방법](https://github.com/jongfeel/Activity/issues/90)
 - [교육생 선발위원회](https://github.com/jongfeel/Activity/issues/64)
 
 ### 꿈찾기 운동본부, 전문 직업인 특강 - 인천 지역 고등학교 1,2학년 학생 대상 직업인 특강

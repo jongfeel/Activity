@@ -68,6 +68,7 @@ Activity log of mentoring or study life
 
 ### Hanium mentors - 한이음 멘토 커뮤니티 모임, 공지사항, 우수 멘토 사례 발표 등
 
+- [ICT 멘토링 멘토 송년회](https://github.com/jongfeel/Activity/issues/80)
 - [3차 멘토 정례 모임, 2022-09-22 zoom 온라인 진행](https://github.com/jongfeel/Activity/issues/12)
 
 ### Hanium project 2022

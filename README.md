@@ -59,6 +59,10 @@ Activity log of mentoring or study life
 
 ## Meetup
 
+### GDG Devfest 2022 - GDG 연말 기술 발표 행사
+
+- [ARCore, ARKit으로 증강현실 시작하기](https://github.com/jongfeel/Activity/issues/88)
+
 ### Virnect book club - 사내 책읽기 모임
 
 #### 함께 자라기, 세 번째 책

@@ -99,6 +99,7 @@ Activity log of mentoring or study life
 google meet에서 진행
 https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup
 
+- [105th online meetup, 2022-11-19](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/180)
 - [104th online meetup, 2022-11-12](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/179)
 - [103th online meetup, 2022-11-05](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/177)
 - [102th online meetup, 2022-10-29](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/171)

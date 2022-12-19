@@ -60,6 +60,10 @@ Activity log of mentoring or study life
 
 ## Meetup
 
+### Home coming day 2022 - 매년 멘티분들 초청하여 개최하는 연말 행사
+
+- [Home coming day 2022, 활동 소개](https://github.com/jongfeel/Activity/issues/93)
+
 ### GDG Devfest 2022 - GDG 연말 기술 발표 행사
 
 - [ARCore, ARKit으로 증강현실 시작하기](https://github.com/jongfeel/Activity/issues/88)

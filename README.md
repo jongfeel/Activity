@@ -21,6 +21,7 @@ Activity log of mentoring or study life
 
 이정안님 개인 멘토링 - 게임 개발 프로젝트 관련, C# 관련 질문/답변 멘토링
 
+- [Meeting 5, 2022-11-30](https://github.com/fkdl0048/Mentoring-Project/discussions/24)
 - [Meeting 4, 2022-11-14](https://github.com/fkdl0048/Mentoring-Project/discussions/21)
 - [Meeting 3, 2022-10-31](https://github.com/fkdl0048/Mentoring-Project/discussions/16)
 - [Meeting 2, 2022-10-17](https://github.com/fkdl0048/Mentoring-Project/discussions/10)

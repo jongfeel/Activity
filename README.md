@@ -76,6 +76,10 @@ Activity log of mentoring or study life
 
 ### Virnect book club - 사내 책읽기 모임
 
+#### 클린 코드 - 애자일 소프트웨어 장인정신, 네 번째 책
+
+- [Chapter 1 to 3, 2022-11-25](https://github.com/silqwer/book-club/pull/6)
+
 #### 함께 자라기, 세 번째 책
 
 - [3 애자일, 2022-11-04](https://github.com/virnect-corp/BookClub/pull/104)

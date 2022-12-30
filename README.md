@@ -14,6 +14,7 @@ Activity log of mentoring or study life
 
 최지윤님 42Seoul 멘토링
 
+- [2022-12-08](https://github.com/jongfeel/Activity/issues/113)
 - [2022-10-11](https://github.com/jongfeel/Activity/issues/43)
 - [2022-10-01](https://github.com/jongfeel/Activity/issues/37)
 

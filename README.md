@@ -78,6 +78,7 @@ Activity log of mentoring or study life
 
 #### 클린 코드 - 애자일 소프트웨어 장인정신, 네 번째 책
 
+- [Chapter 4 to 6, 2022-12-09](https://github.com/silqwer/book-club/pull/12)
 - [Chapter 1 to 3, 2022-11-25](https://github.com/silqwer/book-club/pull/6)
 
 #### 함께 자라기, 세 번째 책

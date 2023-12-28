@@ -148,5 +148,6 @@ https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup
 
 ### 기타 개인적인 티타임 만남
 
+- [차동훈님, 2023-12-22]()
 - [차동훈님, 2022-11-25](https://github.com/jongfeel/Activity/issues/95)
 - [정세영님 이채민님, 2022-10-27](https://github.com/jongfeel/Activity/issues/54)

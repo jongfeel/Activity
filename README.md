@@ -2,13 +2,31 @@
 
 Activity log of mentoring or study life
 
-## Mentoring
+## 2024
 
-### kyuhkim
+### Overview
 
-김규호님 42Seoul 멘토링
+- 개인(혹은 팀) 멘토링
+- 개발자 커뮤니티 행사 참여
+- 한이음 ICT 멘토링
+- 특강 혹은 발표
+- Academic Conference
+- 온라인 모각코
+- 꿈찾기 운동본부 직업인 특강
+- Home coming day
+- 기타 커피챗
 
-- [2022-12-14](https://github.com/jongfeel/Activity/issues/116)
+## 2023
+
+### 한이음 ICT 멘토링
+
+- 23_IF036 지하철 역사 내 AR 네비게이션 ‘SUBIS(썹이스)’
+- 23_HF251 3D 모델 스토어 및 커뮤니티 메타버스 플랫폼
+
+### Mentoring
+
+- kyuhkim, 김규호님 42Seoul 멘토링
+  - [2022-12-14](https://github.com/jongfeel/Activity/issues/116)
 
 ### dohyeoki
 

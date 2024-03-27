@@ -23,7 +23,11 @@ Activity log of mentoring or study life
 - 23_IF036 지하철 역사 내 AR 네비게이션 ‘SUBIS(썹이스)’
 - 23_HF251 3D 모델 스토어 및 커뮤니티 메타버스 플랫폼
 
-### Mentoring
+### 개인 멘토링
+
+- [유수지님 개인 멘토링](https://github.com/jongfeel/Activity/issues/287)
+
+## 2022
 
 - kyuhkim, 김규호님 42Seoul 멘토링
   - [2022-12-14](https://github.com/jongfeel/Activity/issues/116)

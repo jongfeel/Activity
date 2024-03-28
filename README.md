@@ -4,7 +4,7 @@ Activity log of mentoring or study life
 
 ## 2024
 
-### Overview
+### Activity Overview
 
 - 개인(혹은 팀) 멘토링
 - 개발자 커뮤니티 행사 참여
@@ -29,28 +29,33 @@ Activity log of mentoring or study life
 
 ## 2022
 
-- kyuhkim, 김규호님 42Seoul 멘토링
-  - [2022-12-14](https://github.com/jongfeel/Activity/issues/116)
+### Activity Overview
 
-### dohyeoki
+- 개인(혹은 팀) 멘토링
+- 42Seoul 멘토링
+- 개발자 커뮤니티 행사 참여
+- 한이음 ICT 멘토링
+- 특강 혹은 발표
+- Academic Conference
+- 온라인 모각코
+- 꿈찾기 운동본부 직업인 특강
+- Home coming day
+- 기타 커피챗
 
-김도현님 42Seoul 멘토링
+#### 온라인 모각코
 
-- [2022-12-13](https://github.com/jongfeel/Activity/issues/115)
+2022년 온라인 모각코는 59회차 부터 111회차 까지 진행
+https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup
 
-### yeslee
+#### 42Seoul 멘토링
 
-이예신님 42Seoul 멘토링
-
-- [2022-10-23](https://github.com/jongfeel/Activity/issues/57)
-
-### jiychoi
-
-최지윤님 42Seoul 멘토링
-
-- [2022-12-08](https://github.com/jongfeel/Activity/issues/113)
-- [2022-10-11](https://github.com/jongfeel/Activity/issues/43)
-- [2022-10-01](https://github.com/jongfeel/Activity/issues/37)
+- [kyuhkim, 김규호님 42Seoul 멘토링](https://github.com/jongfeel/Activity/issues/116)
+- [dohyeoki, 김도현님 42Seoul 멘토링](https://github.com/jongfeel/Activity/issues/115)
+- [yeslee, 이예신님 42Seoul 멘토링](https://github.com/jongfeel/Activity/issues/57)
+- jiychoi, 최지윤님 42Seoul 멘토링
+  - [2022-12-08](https://github.com/jongfeel/Activity/issues/113)
+  - [2022-10-11](https://github.com/jongfeel/Activity/issues/43)
+  - [2022-10-01](https://github.com/jongfeel/Activity/issues/37)
 
 ### fkdl0048/Mentoring-Project
 
@@ -145,24 +150,6 @@ Activity log of mentoring or study life
 - [인천송도고, 2022-11-02](https://github.com/jongfeel/Activity/issues/25)
 - [인천부평고, 2022-09-28](https://github.com/jongfeel/Activity/issues/20)
 - [인천세원고, 2022-09-23](https://github.com/jongfeel/Activity/issues/4)
-
-### 온라인 모각코
-
-매주 토요일 오전 10시 30분 ~ 오후 12시 30분
-google meet에서 진행
-https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup
-
-- [107th online meetup, 2022-12-03](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/185)
-- [106th online meetup, 2022-11-26](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/183)
-- [105th online meetup, 2022-11-19](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/180)
-- [104th online meetup, 2022-11-12](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/179)
-- [103th online meetup, 2022-11-05](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/177)
-- [102th online meetup, 2022-10-29](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/171)
-- [101th online meetup, 2022-10-22](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/170)
-- [100th online meetup, 2022-10-15](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/169)
-- [99th online meetup, 2022-10-08](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/167)
-- [98th online meetup, 2022-10-01](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/166)
-- [97th online meetup, 2022-09-24](https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup/issues/161)
 
 ### 학생 성장을 돕는 1000명의 진로직업 멘토단
 

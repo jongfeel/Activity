@@ -10,22 +10,82 @@ Activity log of mentoring or study life
 - 개발자 커뮤니티 행사 참여
 - 한이음 ICT 멘토링
 - 특강 혹은 발표
-- Academic Conference
+- 2024 Academic Conference
 - 온라인 모각코
-- 꿈찾기 운동본부 직업인 특강
-- Home coming day
+- 꿈찾기 운동본부 직업인 특강, 프로그래머
+- 2024 Home coming day
 - 기타 커피챗
 
+### 개인(혹은 팀) 멘토링
+
+- [하업서님 개인 멘토링](https://github.com/jongfeel/Activity/issues/340)
+- [윤지윤님 개인 멘토링](https://github.com/jongfeel/Activity/issues/310)
+- [이정안님 개인 멘토링](https://github.com/jongfeel/Activity/issues/26)
+
+### 개발자 커뮤니티 행사 참여
+
+
+
+### 한이음 ICT 멘토링
+
+
+
+### 특강 혹은 발표
+
+
+
+### 2024 Academic Conference
+
+매년 1월 ~ 6월 까지 세 권의 책을 읽고 논의 주제를 통해 2주 간격으로 토론하는 모임
+
+프로그래밍 심리학, 엔터프라이즈 애플리케이션 아키텍처 패턴, 객체지향의 사실과 오해 
+
+- https://github.com/ThinkAboutSoftware/AcademicConference
+
+### 온라인 모각코
+
+2024년 온라인 모각코는 151회차 부터 진행 중
+
+- https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup
+
+### 꿈찾기 운동본부 직업인 특강, 프로그래머
+
+매년 인천지역 고등학교 대상 6~7개의 학교에서 프로그래머 직업인 특강 진행
+
+- https://github.com/jongfeel/Activity/issues/347
+
+### Home coming day 2024
+
+2024년 12월 21일 토요일 오후 1시 예정
+
+### 기타 커피챗
+
+- [2024-03-23, 이예신님](https://github.com/jongfeel/Activity/issues/343)
+
 ## 2023
+
+### Activity Overview
+
+- 개인(혹은 팀) 멘토링
+- 개발자 커뮤니티 행사 참여
+- 한이음 ICT 멘토링
+- 특강 혹은 발표
+- 2024 Academic Conference
+- 온라인 모각코
+- 꿈찾기 운동본부 직업인 특강, 프로그래머
+- 2024 Home coming day
+- 기타 커피챗
+
+### 개인(혹은 팀) 멘토링
+
+- [유수지님 개인 멘토링](https://github.com/jongfeel/Activity/issues/287)
+- [홍성현님 개인 멘토링](https://github.com/jongfeel/Activity/issues/21)
 
 ### 한이음 ICT 멘토링
 
 - 23_IF036 지하철 역사 내 AR 네비게이션 ‘SUBIS(썹이스)’
 - 23_HF251 3D 모델 스토어 및 커뮤니티 메타버스 플랫폼
 
-### 개인 멘토링
-
-- [유수지님 개인 멘토링](https://github.com/jongfeel/Activity/issues/287)
 
 ## 2022
 
@@ -67,15 +127,6 @@ https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup
 - [Meeting 3, 2022-10-31](https://github.com/fkdl0048/Mentoring-Project/discussions/16)
 - [Meeting 2, 2022-10-17](https://github.com/fkdl0048/Mentoring-Project/discussions/10)
 - [Meeting 1, 2022-10-03](https://github.com/fkdl0048/Mentoring-Project/discussions/7)
-
-### hongsam14/AR_Docent
-
-홍성현님 개인 멘토링 - 도자기 전시 작품 AR Docent
-
-- [Meeting 29, 2022-11-25](https://github.com/hongsam14/AR_Docent/issues/21)
-- [Meeting 28, 2022-11-03](https://github.com/hongsam14/AR_Docent/issues/20)
-- [Meeting 27, 2022-10-27](https://github.com/hongsam14/AR_Docent/issues/19)
-- [Meeting 26, 2022-09-30](https://github.com/hongsam14/AR_Docent/issues/17)
 
 ### wisdom08/dev-community
 

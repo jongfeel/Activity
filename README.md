@@ -38,7 +38,11 @@ Activity log of mentoring or study life
 
 매년 1월 ~ 6월 까지 세 권의 책을 읽고 논의 주제를 통해 2주 간격으로 토론하는 모임
 
-프로그래밍 심리학, 엔터프라이즈 애플리케이션 아키텍처 패턴, 객체지향의 사실과 오해 
+- 프로그래밍 심리학
+- 엔터프라이즈 애플리케이션 아키텍처 패턴
+- 객체지향의 사실과 오해 
+
+모임 진행 repository
 
 - https://github.com/ThinkAboutSoftware/AcademicConference
 
@@ -86,7 +90,6 @@ Activity log of mentoring or study life
 - 23_IF036 지하철 역사 내 AR 네비게이션 ‘SUBIS(썹이스)’
 - 23_HF251 3D 모델 스토어 및 커뮤니티 메타버스 플랫폼
 
-
 ## 2022
 
 ### Activity Overview
@@ -100,6 +103,7 @@ Activity log of mentoring or study life
 - 온라인 모각코
 - 꿈찾기 운동본부 직업인 특강
 - Home coming day
+- 버넥트 독서 모임
 - 기타 커피챗
 
 #### 온라인 모각코
@@ -205,6 +209,14 @@ https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup
 ### 학생 성장을 돕는 1000명의 진로직업 멘토단
 
 - [멘토단 위촉식, 2022-10-12](https://github.com/jongfeel/Activity/issues/39)
+
+### 버넥트 독서모임
+
+버넥트 재직 당시 진행했던 독서 모임
+클린 코드는 2022년 까지 김용호님과 회사 내에서 진행하다가
+2023년 부터 홍대 스타벅스에서 진행 2023년 2월 25일 까지 진행 완료
+
+[Book club - Clean Code: A Handbook Of Agile Software Craftsmanship](https://github.com/jongfeel/Activity/issues/107)
 
 ### 기타 개인적인 티타임 만남
 

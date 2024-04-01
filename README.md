@@ -24,7 +24,7 @@ Activity log of mentoring or study life
 
 ### 개발자 커뮤니티 행사 참여
 
-
+- [GDG 인천,송도 HelloWorld 24](https://github.com/jongfeel/Activity/issues/352)
 
 ### 한이음 ICT 멘토링
 

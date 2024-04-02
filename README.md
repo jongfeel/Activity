@@ -90,6 +90,18 @@ Activity log of mentoring or study life
 - 23_IF036 지하철 역사 내 AR 네비게이션 ‘SUBIS(썹이스)’
 - 23_HF251 3D 모델 스토어 및 커뮤니티 메타버스 플랫폼
 
+### 2023 Academic Conference
+
+매년 1월 ~ 6월 까지 세 권의 책을 읽고 논의 주제를 통해 2주 간격으로 토론하는 모임
+
+- 실리콘밸리 팀장들
+- 좋은 코드, 나쁜 코드
+- 소프트웨어 아키텍처 101
+
+모임 진행 repository
+
+- https://github.com/ThinkAboutSoftware/AcademicConference
+
 ## 2022
 
 ### Activity Overview

@@ -90,6 +90,11 @@ Activity log of mentoring or study life
 - 23_IF036 지하철 역사 내 AR 네비게이션 ‘SUBIS(썹이스)’
 - 23_HF251 3D 모델 스토어 및 커뮤니티 메타버스 플랫폼
 
+### 특강 혹은 발표
+
+- 2023-04-06, 홍익대학교 GDSC Devtalk Seminar 9회 키노트 발표
+- https://github.com/jongfeel/Activity/issues/146
+
 ### 2023 Academic Conference
 
 매년 1월 ~ 6월 까지 세 권의 책을 읽고 논의 주제를 통해 2주 간격으로 토론하는 모임
@@ -118,10 +123,10 @@ Activity log of mentoring or study life
 - 버넥트 독서 모임
 - 기타 커피챗
 
-#### 온라인 모각코
+### 개인 혹은 팀 멘토링
 
-2022년 온라인 모각코는 59회차 부터 111회차 까지 진행
-https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup
+- [이정안님 개인 멘토링](https://github.com/jongfeel/Activity/issues/26)
+- [변지혜님 개인 멘토링](https://github.com/jongfeel/Activity/issues/2)
 
 #### 42Seoul 멘토링
 
@@ -132,46 +137,13 @@ https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup
   - [2022-12-08](https://github.com/jongfeel/Activity/issues/113)
   - [2022-10-11](https://github.com/jongfeel/Activity/issues/43)
   - [2022-10-01](https://github.com/jongfeel/Activity/issues/37)
+- 랜덤 다이스 개발 팀
+  - https://github.com/42StudyGame/RandomDiceDefense42-Docs/discussions
 
-### fkdl0048/Mentoring-Project
+### 온라인 모각코
 
-이정안님 개인 멘토링 - 게임 개발 프로젝트 관련, C# 관련 질문/답변 멘토링
-
-- [Tea time, 2022-12-05](https://github.com/fkdl0048/Mentoring-Project/discussions/28)
-- [Meeting 5, 2022-11-30](https://github.com/fkdl0048/Mentoring-Project/discussions/24)
-- [Meeting 4, 2022-11-14](https://github.com/fkdl0048/Mentoring-Project/discussions/21)
-- [Meeting 3, 2022-10-31](https://github.com/fkdl0048/Mentoring-Project/discussions/16)
-- [Meeting 2, 2022-10-17](https://github.com/fkdl0048/Mentoring-Project/discussions/10)
-- [Meeting 1, 2022-10-03](https://github.com/fkdl0048/Mentoring-Project/discussions/7)
-
-### wisdom08/dev-community
-
-변지혜님 개인 멘토링 - 주니어 개발자 커뮤니티
-
-- [Meeting 9, 2023-01-03](https://github.com/wisdom08/dev-community/discussions/46)
-- [Meeting 8, 2022-12-14](https://github.com/wisdom08/dev-community/discussions/45)
-- [Meeting 7, 2022-11-29](https://github.com/wisdom08/dev-community/discussions/42)
-- [Tea time, 2022-11-22](https://github.com/jongfeel/Activity/issues/96)
-- [Meeting 6, 2022-11-15](https://github.com/wisdom08/dev-community/discussions/41)
-- [Meeting 5, 2022-11-01](https://github.com/wisdom08/dev-community/discussions/35)
-- [Meeting 4, 2022-10-18](https://github.com/wisdom08/dev-community/discussions/33)
-- [Meeting 3, 2022-10-04](https://github.com/wisdom08/dev-community/discussions/29)
-- [Meeting 2, 2022-09-20](https://github.com/wisdom08/dev-community/discussions/18)
-- [Meeting 1, 2022-09-06](https://github.com/wisdom08/dev-community/discussions/14)
-
-### 42StudyGame/RandomDiceDefense42-Client
-
-42Seoul 팀 멘토링 - 랜덤 다이스 디펜스 게임 개발
-
-- [Meeting 8, 2022-11-30](https://github.com/42StudyGame/RandomDiceDefense42-Docs/discussions/13)
-- [Meeting 8, 2022-11-30](https://github.com/42StudyGame/RandomDiceDefense42-Docs/discussions/12)
-- [Meeting 7, 2022-11-23](https://github.com/42StudyGame/RandomDiceDefense42-Docs/discussions/10)
-- [Meeting 6, 2022-11-09](https://github.com/42StudyGame/RandomDiceDefense42-Docs/discussions/8)
-- [Meeting 5, 2022-10-26](https://github.com/42StudyGame/RandomDiceDefense42-Docs/discussions/7)
-- [Meeting 4, 2022-10-12](https://github.com/42StudyGame/RandomDiceDefense42-Docs/discussions/5)
-- [Meeting 3, 2022-10-05](https://github.com/42StudyGame/RandomDiceDefense42-Docs/discussions/3)
-- [Meeting 2, 2022-09-28](https://github.com/42StudyGame/RandomDiceDefense42-Client/discussions/20)
-- [Meeting 1, 2022-09-21](https://github.com/42StudyGame/RandomDiceDefense42-Client/discussions/1)
+2022년 온라인 모각코는 59회차 부터 111회차 까지 진행
+https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup
 
 ## Meetup
 

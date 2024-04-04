@@ -24,15 +24,15 @@ Activity log of mentoring or study life
 
 ### 개발자 커뮤니티 행사 참여
 
-- [GDG 인천,송도 HelloWorld 24](https://github.com/jongfeel/Activity/issues/352)
+- [GDG 인천,송도 HelloWorld 24, 2024-03-30](https://github.com/jongfeel/Activity/issues/352)
 
 ### 한이음 ICT 멘토링
 
-
+- [24_HF263 Unity 기반 VR 멀티 운동 게임(Full-Tracking), 한국교통대학교](https://github.com/jongfeel/Activity/issues/362)
 
 ### 특강 혹은 발표
 
-
+- [AR/VR 기초 및 활용, 2024-03-07](https://github.com/jongfeel/Activity/issues/329)
 
 ### 2024 Academic Conference
 
@@ -73,6 +73,7 @@ Activity log of mentoring or study life
 - 개인(혹은 팀) 멘토링
 - 개발자 커뮤니티 행사 참여
 - 한이음 ICT 멘토링
+- 국민대 소프트웨어 융합 대학 멘토링
 - 특강 혹은 발표
 - 2024 Academic Conference
 - 온라인 모각코
@@ -90,6 +91,13 @@ Activity log of mentoring or study life
 - 23_IF036 지하철 역사 내 AR 네비게이션 ‘SUBIS(썹이스)’
 - 23_HF251 3D 모델 스토어 및 커뮤니티 메타버스 플랫폼
 
+### 국민대 소프트웨어 융합 대학 멘토링
+
+국민대 이민석 교수님의 요청을 받아 소프트웨어 융합 대학 멘토단에 등록
+
+- 멘토 소개 링크: https://mentor.cs.kookmin.ac.kr/멘토소개#h.1cn0h98dn61w
+- https://github.com/jongfeel/Activity/issues/147
+
 ### 특강 혹은 발표
 
 - 2023-04-06, 홍익대학교 GDSC Devtalk Seminar 9회 키노트 발표
@@ -106,6 +114,10 @@ Activity log of mentoring or study life
 모임 진행 repository
 
 - https://github.com/ThinkAboutSoftware/AcademicConference
+
+### 기타 커피챗
+
+- [차동훈님, 2023-12-22](https://github.com/jongfeel/Activity/issues/325)
 
 ## 2022
 
@@ -184,7 +196,9 @@ https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup
 - [목요특강, ARCore, ARFoundation을 통한 증강현실 개발 방법](https://github.com/jongfeel/Activity/issues/90)
 - [교육생 선발위원회](https://github.com/jongfeel/Activity/issues/64)
 
-### 꿈찾기 운동본부, 전문 직업인 특강 - 인천 지역 고등학교 1,2학년 학생 대상 직업인 특강
+### 꿈찾기 운동본부, 전문 직업인 특강
+
+인천 지역 고등학교 1,2학년 학생 대상 직업인 특강
 
 - [인천송도고, 2022-11-02](https://github.com/jongfeel/Activity/issues/25)
 - [인천부평고, 2022-09-28](https://github.com/jongfeel/Activity/issues/20)
@@ -204,6 +218,5 @@ https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup
 
 ### 기타 개인적인 티타임 만남
 
-- [차동훈님, 2023-12-22]()
 - [차동훈님, 2022-11-25](https://github.com/jongfeel/Activity/issues/95)
 - [정세영님 이채민님, 2022-10-27](https://github.com/jongfeel/Activity/issues/54)

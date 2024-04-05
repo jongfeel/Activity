@@ -115,6 +115,11 @@ Activity log of mentoring or study life
 
 - https://github.com/ThinkAboutSoftware/AcademicConference
 
+### 온라인 모각코
+
+2023년 온라인 모각코는 112회차 부터 163회차 까지 진행
+https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup
+
 ### 기타 커피챗
 
 - [차동훈님, 2023-12-22](https://github.com/jongfeel/Activity/issues/325)

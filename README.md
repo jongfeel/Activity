@@ -14,6 +14,7 @@ Activity log of mentoring or study life
 - 온라인 모각코
 - 꿈찾기 운동본부 직업인 특강, 프로그래머
 - 2024 Home coming day
+- 노마드 코더 챌린지
 - 기타 커피챗
 
 ### 개인(혹은 팀) 멘토링
@@ -62,9 +63,20 @@ Activity log of mentoring or study life
 
 2024년 12월 21일 토요일 오후 1시 예정
 
+### 노마드 코더 챌린지
+
+유명 유튜버 노마드 코더에서 만든 무료 강의와 기간내에 목표를 달성하는 챌린지 형태
+https://nomadcoders.co/challenges
+
+- [Python으로 웹 스크랩퍼 만들기]()
+
 ### 기타 커피챗
 
 - [2024-03-23, 이예신님](https://github.com/jongfeel/Activity/issues/343)
+
+<details>
+<summary>2023</summary>
+<p>
 
 ## 2023
 
@@ -79,6 +91,7 @@ Activity log of mentoring or study life
 - 온라인 모각코
 - 꿈찾기 운동본부 직업인 특강, 프로그래머
 - 2024 Home coming day
+- 노개북 스터디
 - 기타 커피챗
 
 ### 개인(혹은 팀) 멘토링
@@ -120,9 +133,27 @@ Activity log of mentoring or study life
 2023년 온라인 모각코는 112회차 부터 163회차 까지 진행
 https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup
 
+### 노개북 스터디
+
+노개북?
+노마드 코더 개발자 북클럽으로 정해진 기간에 책을 읽고 정리하고 과제를 수행하는 방식으로 진행
+
+https://nomadcoders.co/it-dictionary
+
+2023년 1월 1회차를 진행했고 완료함
+
+https://github.com/jongfeel/Activity/issues/157
+
 ### 기타 커피챗
 
 - [차동훈님, 2023-12-22](https://github.com/jongfeel/Activity/issues/325)
+
+</p>
+</details>
+
+<details>
+<summary>2022</summary>
+<p>
 
 ## 2022
 
@@ -225,3 +256,6 @@ https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup
 
 - [차동훈님, 2022-11-25](https://github.com/jongfeel/Activity/issues/95)
 - [정세영님 이채민님, 2022-10-27](https://github.com/jongfeel/Activity/issues/54)
+
+</p>
+</details>

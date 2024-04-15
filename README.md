@@ -30,6 +30,8 @@ Activity log of mentoring or study life
 ### 한이음 ICT 멘토링
 
 - [24_HF263 Unity 기반 VR 멀티 운동 게임(Full-Tracking), 한국교통대학교](https://github.com/jongfeel/Activity/issues/362)
+- [24_HF235 AI 객체인식모델 기반의 AR을 활용한 데스크탑 조립 가이드 어플리케이션 개발, 한국폴리텍2대학 인천캠퍼스](https://github.com/jongfeel/Activity/issues/372)
+- [24_HF137 천지미록(天之美祿) - 홀로렌즈를 활용한 체험형 MR 전시, 중앙대학교 다빈치캠퍼스](https://github.com/jongfeel/Activity/issues/366)
 
 ### 특강 혹은 발표
 
@@ -66,9 +68,10 @@ Activity log of mentoring or study life
 ### 노마드 코더 챌린지
 
 유명 유튜버 노마드 코더에서 만든 무료 강의와 기간내에 목표를 달성하는 챌린지 형태
+
 https://nomadcoders.co/challenges
 
-- [Python으로 웹 스크랩퍼 만들기]()
+- [Python으로 웹 스크랩퍼 만들기](https://nomadcoders.co/python-for-beginners)
 
 ### 기타 커피챗
 
@@ -146,6 +149,7 @@ https://github.com/jongfeel/Activity/issues/157
 
 ### 기타 커피챗
 
+- [안병국님, 2023-01-14](https://github.com/jongfeel/Activity/issues/161)
 - [차동훈님, 2023-12-22](https://github.com/jongfeel/Activity/issues/325)
 
 </p>

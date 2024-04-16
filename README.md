@@ -19,9 +19,9 @@ Activity log of mentoring or study life
 
 ### 개인(혹은 팀) 멘토링
 
-- [하업서님 개인 멘토링](https://github.com/jongfeel/Activity/issues/340)
-- [윤지윤님 개인 멘토링](https://github.com/jongfeel/Activity/issues/310)
-- [이정안님 개인 멘토링](https://github.com/jongfeel/Activity/issues/26)
+- [하업서님 개인 멘토링, 2024-03-12 ~ current](https://github.com/jongfeel/Activity/issues/340)
+- [윤지윤님 개인 멘토링, 2023-09-07 ~ current](https://github.com/jongfeel/Activity/issues/310)
+- [이정안님 개인 멘토링, 2022-10-30 ~ current](https://github.com/jongfeel/Activity/issues/26)
 
 ### 개발자 커뮤니티 행사 참여
 
@@ -71,7 +71,8 @@ Activity log of mentoring or study life
 
 https://nomadcoders.co/challenges
 
-- [Python으로 웹 스크랩퍼 만들기](https://nomadcoders.co/python-for-beginners)
+- [파이썬 챌린지 2주, 2024-04-15](https://github.com/jongfeel/Activity/issues/369)
+- [클린코드 챌린지 3주, 2024-05-03](https://github.com/jongfeel/Activity/issues/369)
 
 ### 기타 커피챗
 
@@ -99,8 +100,9 @@ https://nomadcoders.co/challenges
 
 ### 개인(혹은 팀) 멘토링
 
-- [유수지님 개인 멘토링](https://github.com/jongfeel/Activity/issues/287)
-- [홍성현님 개인 멘토링](https://github.com/jongfeel/Activity/issues/21)
+- [유수지님 개인 멘토링, 2023-08-23 ~ 2023-11-29](https://github.com/jongfeel/Activity/issues/287)
+- [한성현님 개인 멘토링, 2023-01-10 ~ 2023-10-17](https://github.com/jongfeel/Activity/issues/177)
+- [홍성현님 개인 멘토링, 2022-02-10 ~ 2024-03-30](https://github.com/jongfeel/Activity/issues/21)
 
 ### 한이음 ICT 멘토링
 
@@ -149,8 +151,8 @@ https://github.com/jongfeel/Activity/issues/157
 
 ### 기타 커피챗
 
-- [안병국님, 2023-01-14](https://github.com/jongfeel/Activity/issues/161)
 - [차동훈님, 2023-12-22](https://github.com/jongfeel/Activity/issues/325)
+- [안병국님, 2023-01-14](https://github.com/jongfeel/Activity/issues/161)
 
 </p>
 </details>

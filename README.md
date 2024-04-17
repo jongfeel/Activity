@@ -152,6 +152,7 @@ https://github.com/jongfeel/Activity/issues/157
 ### 기타 커피챗
 
 - [차동훈님, 2023-12-22](https://github.com/jongfeel/Activity/issues/325)
+- [오상은님, 2023-01-14](https://github.com/jongfeel/Activity/issues/181)
 - [안병국님, 2023-01-14](https://github.com/jongfeel/Activity/issues/161)
 
 </p>

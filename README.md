@@ -59,7 +59,10 @@ Activity log of mentoring or study life
 
 매년 인천지역 고등학교 대상 6~7개의 학교에서 프로그래머 직업인 특강 진행
 
-- https://github.com/jongfeel/Activity/issues/347
+https://github.com/jongfeel/Activity/issues/347
+
+- 서현고등학교, 2024-07-17 Wed
+- 송도고등학교, 2024-05-29 Wed
 
 ### Home coming day 2024
 
@@ -136,7 +139,22 @@ https://nomadcoders.co/challenges
 ### 온라인 모각코
 
 2023년 온라인 모각코는 112회차 부터 163회차 까지 진행
-https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup
+
+- https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup
+
+### 꿈찾기 운동본부, 전문 직업인 특강
+
+인천 지역 고등학교 1,2학년 학생 대상 직업인 특강
+
+https://github.com/jongfeel/Activity/issues/205
+
+- 예일고등학교, 2023-12-20
+- 인천여자고등학교, 2023-12-01
+- 원당고등학교, 2023-11-24
+- 서현고등학교, 2023-07-17, canceled
+- 부천부인중학교, 2023-07-07, canceled
+- 삼산고등학교, 2023-06-09
+- 송도고등학교, 2023-05-10
 
 ### 노개북 스터디
 

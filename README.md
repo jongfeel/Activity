@@ -39,7 +39,7 @@ Activity log of mentoring or study life
 
 ### 2024 Academic Conference
 
-매년 1월 ~ 6월 까지 세 권의 책을 읽고 논의 주제를 통해 2주 간격으로 토론하는 모임
+매년 1월 ~ 6월 까지 세 권의 책을 읽고 논의 주제를 통해 2주 간격으로 토론하고 워크샵을 진행하는 모임
 
 - 프로그래밍 심리학
 - 엔터프라이즈 애플리케이션 아키텍처 패턴
@@ -48,6 +48,10 @@ Activity log of mentoring or study life
 모임 진행 repository
 
 - https://github.com/ThinkAboutSoftware/AcademicConference
+
+워크샵 일정
+
+- 2023년 6월 28일 금요일 오후 강릉
 
 ### 온라인 모각코
 
@@ -59,7 +63,7 @@ Activity log of mentoring or study life
 
 매년 인천지역 고등학교 대상 6~7개의 학교에서 프로그래머 직업인 특강 진행
 
-https://github.com/jongfeel/Activity/issues/347
+[2024 꿈찾기 운동본부 활동](https://github.com/jongfeel/Activity/issues/347)
 
 - 서현고등학교, 2024-07-17 Wed
 - 송도고등학교, 2024-05-29 Wed
@@ -105,7 +109,9 @@ https://nomadcoders.co/challenges
 
 - [유수지님 개인 멘토링, 2023-08-23 ~ 2023-11-29](https://github.com/jongfeel/Activity/issues/287)
 - [한성현님 개인 멘토링, 2023-01-10 ~ 2023-10-17](https://github.com/jongfeel/Activity/issues/177)
+- [김상아님 개인 멘토링, 2023-03-27 ~ 2023-04-24](https://github.com/jongfeel/Activity/issues/207)
 - [홍성현님 개인 멘토링, 2022-02-10 ~ 2024-03-30](https://github.com/jongfeel/Activity/issues/21)
+- [이정안님 개인 멘토링, 2023년 계속 진행](https://github.com/jongfeel/Activity/issues/26)
 
 ### 한이음 ICT 멘토링
 
@@ -135,6 +141,10 @@ https://nomadcoders.co/challenges
 모임 진행 repository
 
 - https://github.com/ThinkAboutSoftware/AcademicConference
+
+워크샵 일정, 2023년 6월 30일 금요일 오후 인천 영종도 구읍뱃터
+
+- https://github.com/ThinkAboutSoftware/AcademicConference/discussions/334
 
 ### 온라인 모각코
 

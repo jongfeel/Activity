@@ -63,7 +63,7 @@ Activity log of mentoring or study life
 
 매년 인천지역 고등학교 대상 6~7개의 학교에서 프로그래머 직업인 특강 진행
 
-[2024 꿈찾기 운동본부 활동](https://github.com/jongfeel/Activity/issues/347)
+[2024 꿈찾기 운동본부 특강](https://github.com/jongfeel/Activity/issues/347)
 
 - 서현고등학교, 2024-07-17 Wed
 - 송도고등학교, 2024-05-29 Wed
@@ -115,7 +115,7 @@ https://nomadcoders.co/challenges
 
 ### 한이음 ICT 멘토링
 
-- 23_IF036 지하철 역사 내 AR 네비게이션 ‘SUBIS(썹이스)’
+- [[23_IF036] 지하철 역사 내 AR 네비게이션 ‘SUBIS(썹이스)’](https://github.com/jongfeel/Activity/issues/246)
 - 23_HF251 3D 모델 스토어 및 커뮤니티 메타버스 플랫폼
 
 ### 국민대 소프트웨어 융합 대학 멘토링

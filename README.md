@@ -116,19 +116,18 @@ https://nomadcoders.co/challenges
 ### 한이음 ICT 멘토링
 
 - [[23_IF036] 지하철 역사 내 AR 네비게이션 ‘SUBIS(썹이스)’](https://github.com/jongfeel/Activity/issues/246)
-- 23_HF251 3D 모델 스토어 및 커뮤니티 메타버스 플랫폼
+- [[23_HF251] 3D 모델 스토어 및 커뮤니티 메타버스 플랫폼](https://github.com/jongfeel/Activity/issues/252)
 
 ### 국민대 소프트웨어 융합 대학 멘토링
 
 국민대 이민석 교수님의 요청을 받아 소프트웨어 융합 대학 멘토단에 등록
+https://github.com/jongfeel/Activity/issues/147
 
 - 멘토 소개 링크: https://mentor.cs.kookmin.ac.kr/멘토소개#h.1cn0h98dn61w
-- https://github.com/jongfeel/Activity/issues/147
 
 ### 특강 혹은 발표
 
-- 2023-04-06, 홍익대학교 GDSC Devtalk Seminar 9회 키노트 발표
-- https://github.com/jongfeel/Activity/issues/146
+- [2023-04-06, 홍익대학교 GDSC Devtalk Seminar 9회 키노트 발표](https://github.com/jongfeel/Activity/issues/146)
 
 ### 2023 Academic Conference
 
@@ -154,9 +153,7 @@ https://nomadcoders.co/challenges
 
 ### 꿈찾기 운동본부, 전문 직업인 특강
 
-인천 지역 고등학교 1,2학년 학생 대상 직업인 특강
-
-https://github.com/jongfeel/Activity/issues/205
+[인천 지역 고등학교 1,2학년 학생 대상 직업인 특강](https://github.com/jongfeel/Activity/issues/205)
 
 - 예일고등학교, 2023-12-20
 - 인천여자고등학교, 2023-12-01
@@ -173,9 +170,7 @@ https://github.com/jongfeel/Activity/issues/205
 
 https://nomadcoders.co/it-dictionary
 
-2023년 1월 1회차를 진행했고 완료함
-
-https://github.com/jongfeel/Activity/issues/157
+[2023년 1월 1회차 챌린지 완료](https://github.com/jongfeel/Activity/issues/157)
 
 ### 기타 커피챗
 

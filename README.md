@@ -97,12 +97,14 @@ https://nomadcoders.co/challenges
 - 개발자 커뮤니티 행사 참여
 - 한이음 ICT 멘토링
 - 국민대 소프트웨어 융합 대학 멘토링
+- 이노베이션 아카데미 42서울 멘토링
 - 특강 혹은 발표
 - 2024 Academic Conference
 - 온라인 모각코
 - 꿈찾기 운동본부 직업인 특강, 프로그래머
 - 2024 Home coming day
 - 노개북 스터디
+- 교보문고 리드잇진 기고
 - 기타 커피챗
 
 ### 개인(혹은 팀) 멘토링
@@ -124,6 +126,19 @@ https://nomadcoders.co/challenges
 https://github.com/jongfeel/Activity/issues/147
 
 - 멘토 소개 링크: https://mentor.cs.kookmin.ac.kr/멘토소개#h.1cn0h98dn61w
+
+### 이노베이션 아카데미 42서울 멘토링
+
+2023년 부터 공식 멘토링 활동은 없어졌지만,
+이노베이션 아카데미에서 진행하는 프로젝트에 참여
+
+#### 학업성취도 향상 부트캠프 전문가 코칭
+
+42서울 교육생들이 프로젝트를 진행하고 외부 전문가 코칭을 받아 앱 출시 및 창업 지원 했던 프로그램
+
+여기서 최진영님의 연락을 받아 멘토링을 진행하게 되었고, 개발했던 게임이 최종적으로 앱 스토어에 출시되고 상도 받게 됨.
+
+- [학업성취도 향상 부트캠프 전문가 코칭 - soobak 팀(최진영, 안세현, 이정빈)](https://github.com/jongfeel/Activity/issues/266)
 
 ### 특강 혹은 발표
 
@@ -172,6 +187,15 @@ https://nomadcoders.co/it-dictionary
 
 [2023년 1월 1회차 챌린지 완료](https://github.com/jongfeel/Activity/issues/157)
 
+### 교보문고 리드잇진 기고
+
+교보문고에서 발행하는 개발자 기고문을 실어주는 잡지, 2022년 Academic conference 모임에서 권태형님이 알려줬고 5호 원고 부터 기고해서 매 회차 기고하고 있음
+
+- [리드잇zine(ReadITZine) 8호 원고 작성 <책상 위의 책｜개발자의 가방 속>, 2023-08-06(Sun) 마감](https://github.com/jongfeel/Activity/issues/238)
+- [리드잇zine(ReadITZine) 8호 원고 작성 <오늘과 내일 사이 그 어딘가 : #FIXME>, 2023-04-30(Sun) 마감](https://github.com/jongfeel/Activity/issues/204)
+- [리드잇zine(ReadITZine) 7호 원고 작성, 2023-01-15(Sun) 마감](https://github.com/jongfeel/Activity/issues/122)
+
+
 ### 기타 커피챗
 
 - [차동훈님, 2023-12-22](https://github.com/jongfeel/Activity/issues/325)
@@ -199,6 +223,7 @@ https://nomadcoders.co/it-dictionary
 - 꿈찾기 운동본부 직업인 특강
 - Home coming day
 - 버넥트 독서 모임
+- 교보문고 리드잇진 기고
 - 기타 커피챗
 
 ### 개인 혹은 팀 멘토링
@@ -281,6 +306,12 @@ https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup
 2023년 부터 홍대 스타벅스에서 진행 2023년 2월 25일 까지 진행 완료
 
 [Book club - Clean Code: A Handbook Of Agile Software Craftsmanship](https://github.com/jongfeel/Activity/issues/107)
+
+### 교보문고 리드잇진 기고
+
+교보문고에서 발행하는 개발자 기고문을 실어주는 잡지, 2022년 Academic conference 모임에서 권태형님이 알려줬고 5호 원고 부터 기고해서 매 회차 기고하고 있음
+
+- [리드잇zine(readITZine) 6호 원고 작성, 09-25 마감](https://github.com/jongfeel/Activity/issues/1)
 
 ### 기타 개인적인 티타임 만남
 

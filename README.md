@@ -97,9 +97,10 @@ https://nomadcoders.co/challenges
 - 개발자 커뮤니티 행사 참여
 - 한이음 ICT 멘토링
 - 국민대 소프트웨어 융합 대학 멘토링
+- 성결대 창의문제해결 프로젝트 멘토링
 - 이노베이션 아카데미 42서울 멘토링
 - 특강 혹은 발표
-- 2024 Academic Conference
+- 2023 Academic Conference
 - 온라인 모각코
 - 꿈찾기 운동본부 직업인 특강, 프로그래머
 - 2024 Home coming day
@@ -126,6 +127,12 @@ https://nomadcoders.co/challenges
 https://github.com/jongfeel/Activity/issues/147
 
 - 멘토 소개 링크: https://mentor.cs.kookmin.ac.kr/멘토소개#h.1cn0h98dn61w
+
+### 성결대 창의문제해결 프로젝트 멘토링
+
+성결대 외부 전문가 멘토링 지원 프로그램으로 성결대 프로젝트 팀 멘토링
+
+- [초등 6학년을 위한 AR과학실험 애플리케이션 개발](https://github.com/jongfeel/Activity/issues/270)
 
 ### 이노베이션 아카데미 42서울 멘토링
 

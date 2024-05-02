@@ -110,12 +110,13 @@ https://nomadcoders.co/challenges
 
 ### 개인(혹은 팀) 멘토링
 
+- [이이원님 개인 멘토링, 2023-12-12 ~ 2023-12-26](https://github.com/jongfeel/Activity/issues/316)
 - [유수지님 개인 멘토링, 2023-08-23 ~ 2023-11-29](https://github.com/jongfeel/Activity/issues/287)
 - [이예신님 회사 생활 멘토링, 2023-01-29 ~ 2023-11-18](https://github.com/jongfeel/Activity/issues/295)
 - [한성현님 개인 멘토링, 2023-01-10 ~ 2023-10-17](https://github.com/jongfeel/Activity/issues/177)
 - [김상아님 개인 멘토링, 2023-03-27 ~ 2023-04-24](https://github.com/jongfeel/Activity/issues/207)
 - [홍성현님 개인 멘토링, 2022-02-10 ~ 2024-03-30](https://github.com/jongfeel/Activity/issues/21)
-- [이정안님 개인 멘토링, 2023년 계속 진행](https://github.com/jongfeel/Activity/issues/26)
+- [이정안님 개인 멘토링, 8th ~ 27th online, 4 offline](https://github.com/jongfeel/Activity/issues/26)
 
 ### 한이음 ICT 멘토링
 
@@ -236,8 +237,8 @@ https://nomadcoders.co/it-dictionary
 
 ### 개인 혹은 팀 멘토링
 
-- [이정안님 개인 멘토링](https://github.com/jongfeel/Activity/issues/26)
-- [변지혜님 개인 멘토링](https://github.com/jongfeel/Activity/issues/2)
+- [이정안님 개인 멘토링, 2022-10-03 ~ current](https://github.com/jongfeel/Activity/issues/26)
+- [변지혜님 개인 멘토링, 2022-09-06 ~ 2023-01-03](https://github.com/jongfeel/Activity/issues/2)
 
 #### 42Seoul 멘토링
 

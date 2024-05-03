@@ -126,9 +126,9 @@ https://nomadcoders.co/challenges
 ### 국민대 소프트웨어 융합 대학 멘토링
 
 국민대 이민석 교수님의 요청을 받아 소프트웨어 융합 대학 멘토단에 등록
-https://github.com/jongfeel/Activity/issues/147
 
-- 멘토 소개 링크: https://mentor.cs.kookmin.ac.kr/멘토소개#h.1cn0h98dn61w
+- [소융대 멘토링](https://github.com/jongfeel/Activity/issues/147)
+- [멘토 소개 링크](https://mentor.cs.kookmin.ac.kr/멘토소개#h.1cn0h98dn61w)
 
 ### 성결대 창의문제해결 프로젝트 멘토링
 
@@ -255,7 +255,8 @@ https://nomadcoders.co/it-dictionary
 ### 온라인 모각코
 
 2022년 온라인 모각코는 59회차 부터 111회차 까지 진행
-https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup
+
+- https://github.com/ThinkAboutSoftware/OnlineSelfCodingGroup
 
 ## Meetup
 

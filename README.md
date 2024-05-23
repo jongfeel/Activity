@@ -20,7 +20,7 @@ Activity log of mentoring or study life
 ### 개인(혹은 팀) 멘토링
 
 - [하업서님 개인 멘토링, 2024-03-12 ~ current](https://github.com/jongfeel/Activity/issues/340)
-- [윤지윤님 개인 멘토링, 2023-09-07 ~ current](https://github.com/jongfeel/Activity/issues/310)
+- [윤지윤님 개인 멘토링, 2023-09-07 ~ 2024-05-16](https://github.com/jongfeel/Activity/issues/310)
 - [이정안님 개인 멘토링, 2022-10-30 ~ current](https://github.com/jongfeel/Activity/issues/26)
 
 ### 개발자 커뮤니티 행사 참여

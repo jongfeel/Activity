@@ -78,8 +78,8 @@ Activity log of mentoring or study life
 
 https://nomadcoders.co/challenges
 
+- [클린코드 챌린지 3주, 2024-05-03](https://github.com/jongfeel/Activity/issues/375)
 - [파이썬 챌린지 2주, 2024-04-15](https://github.com/jongfeel/Activity/issues/369)
-- [클린코드 챌린지 3주, 2024-05-03](https://github.com/jongfeel/Activity/issues/369)
 
 ### 기타 커피챗
 

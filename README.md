@@ -70,7 +70,7 @@ Activity log of mentoring or study life
 
 ### Home coming day 2024
 
-2024년 12월 21일 토요일 오후 1시 예정
+2024년 12월 14일 토요일 오후 1시 예정
 
 ### 노마드 코더 챌린지
 

@@ -9,6 +9,7 @@ Activity log of mentoring or study life
 - 개인(혹은 팀) 멘토링
 - 개발자 커뮤니티 행사 참여
 - 한이음 ICT 멘토링
+- 국민대 소프트웨어 융합 대학 멘토링
 - 특강 혹은 발표
 - 2024 Academic Conference
 - 온라인 모각코
@@ -32,6 +33,14 @@ Activity log of mentoring or study life
 - [24_HF263 Unity 기반 VR 멀티 운동 게임(Full-Tracking), 한국교통대학교](https://github.com/jongfeel/Activity/issues/362)
 - [24_HF235 AI 객체인식모델 기반의 AR을 활용한 데스크탑 조립 가이드 어플리케이션 개발, 한국폴리텍2대학 인천캠퍼스](https://github.com/jongfeel/Activity/issues/372)
 - [24_HF137 천지미록(天之美祿) - 홀로렌즈를 활용한 체험형 MR 전시, 중앙대학교 다빈치캠퍼스](https://github.com/jongfeel/Activity/issues/366)
+
+### 국민대 소프트웨어 융합 대학 멘토링
+
+올해는 멘토링 신청이 없어서 안하나 보다 생각했지만
+예상치 못한 멘토링 신청 학생이 있어 내용 추가함
+
+- [소프트웨어 융합 대학 멘토링](https://github.com/jongfeel/Activity/issues/427)
+- [멘토 소개 링크](https://mentor.cs.kookmin.ac.kr/멘토소개#h.1cn0h98dn61w)
 
 ### 특강 혹은 발표
 

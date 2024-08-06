@@ -84,6 +84,7 @@ https://nomadcoders.co/challenges
 ### 기타 커피챗
 
 - [2024-03-23, 이예신님](https://github.com/jongfeel/Activity/issues/343)
+- [2024-06-17, 윤태원님](https://github.com/jongfeel/Activity/issues/428)
 
 <details>
 <summary>2023</summary>

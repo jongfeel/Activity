@@ -70,7 +70,7 @@ Activity log of mentoring or study life
 
 ### Home coming day 2024
 
-2024년 12월 21일 토요일 오후 1시 예정
+2024년 12월 14일 토요일 오후 1시 예정
 
 ### 노마드 코더 챌린지
 
@@ -84,6 +84,7 @@ https://nomadcoders.co/challenges
 ### 기타 커피챗
 
 - [2024-03-23, 이예신님](https://github.com/jongfeel/Activity/issues/343)
+- [2024-06-17, 윤태원님](https://github.com/jongfeel/Activity/issues/428)
 
 <details>
 <summary>2023</summary>
